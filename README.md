@@ -1,20 +1,14 @@
-# TypeScript Project
+# AWS CDK TypeScript examples
 
-This project explores TypeScript development practices and patterns. It provides a foundation for creating production-ready, scalable applications using TypeScript along with Node.js and npm.
+This repository contains examples of AWS CDK TypeScript projects.
 
 ## Table of Contents
 
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
+    - [Tooling](#tooling)
 - [Usage](#usage)
-- [Running the Tests](#running-the-tests)
-- [Deployment](#deployment)
-- [Built With](#built-with)
-- [Versioning](#versioning)
-- [Authors](#authors)
-- [License](#license)
-- [Contributing](#contributing)
 
 ## Getting Started
 
@@ -44,3 +38,11 @@ To deploy the stack, run the following command:
 ```shell
 cdk deploy
 ```
+
+## Contributing
+
+We welcome community contributions to this project. Please see our [Contributing guide](./Contributing.md) for more details.
+
+## License
+              
+Distributed under the MIT License. See `LICENSE` for more information.

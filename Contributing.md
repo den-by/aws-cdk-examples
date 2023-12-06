@@ -1,4 +1,4 @@
-# AWS CDK examples Contributing Guide
+# AWS CDK TypeScript examples Contributing Guide
 
 [TOC]
 

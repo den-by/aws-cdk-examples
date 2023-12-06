@@ -2,13 +2,14 @@
   "name": "aws-cdk-examples",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "AWS CDK TypeScript examples",
   "keywords": [
     "aws",
     "cdk",
-    "typescript"
+    "typescript",
+    "examples",
+    "aws-cdk-examples",
+    "cloud-development-kit"
   ],
   "author": "Dzianis Buyakou",
   "license": "MIT"
